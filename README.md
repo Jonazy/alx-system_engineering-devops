@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX 0x00. Shell, basics project
+ALX 0x00. Shell, basics project. It's about shell navigation, look around,file manipulation, working commands e.t.c
